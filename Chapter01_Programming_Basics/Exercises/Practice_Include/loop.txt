@@ -1,0 +1,3 @@
+Infinite loop file started.
+#include loop.txt
+Infinite loop file finished.

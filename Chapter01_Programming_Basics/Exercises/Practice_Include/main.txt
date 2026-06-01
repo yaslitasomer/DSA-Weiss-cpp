@@ -1,0 +1,6 @@
+We are starting our C++ Data Structures studies.
+#include math_notes.txt
+Returned to the main file, everything is on track.
+Now testing the infinite loop protection:
+#include loop.txt
+Test finished.

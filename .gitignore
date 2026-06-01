@@ -1,0 +1,12 @@
+# Compiled Executables
+*.out
+*.exe
+*.o
+test
+test.exe
+
+# CMake & Build folders
+build/
+out/
+bin/
+.vscode/
